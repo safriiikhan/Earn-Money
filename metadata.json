@@ -1,0 +1,8 @@
+{
+  "name": "AdVault Premium Earn",
+  "description": "A premium mobile-first earning platform where users buy tiered packages, watch daily ads to earn rewards, and refer friends to build a passive income stream with an integrated AI assistant for earning optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
